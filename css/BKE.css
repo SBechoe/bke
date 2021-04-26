@@ -50,9 +50,9 @@ h1
 
 #speler2
 {
-	float: right;  
-	width: 179px;  
-	height: 400px;  
+	float: right;
+	width: 179px;
+	height: 400px;
 	margin-top: 170px;
 	font-size: 28px;
 	text-align: center;
@@ -61,13 +61,13 @@ h1
 
 #naamSpeler2
 {
-	margin-top: 40px;  
+	margin-top: 40px;
 	height: 150px;
 }
 
 #scoreSpeler2
 {
-	margin-top: 40px;  
+	margin-top: 40px;
 	height: 150px;
 }
 
@@ -162,7 +162,7 @@ nav
 
 input
 {
-    margin-left: 18%;
+    margin-left: 10%;
 }
 
 #copyright
